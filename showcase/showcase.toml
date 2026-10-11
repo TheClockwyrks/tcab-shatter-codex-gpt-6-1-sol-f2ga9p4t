@@ -1,0 +1,11 @@
+[[media]]
+file = "flight.json.gz"
+name = "Fighting the gravity well"
+
+[[media]]
+file = "field.png"
+name = "An armored field"
+
+[[media]]
+file = "title.png"
+name = "Shatter — Warhead"
